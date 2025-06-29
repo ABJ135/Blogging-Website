@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["home.a4a852dd.css","styles/home.css"],"sourcesContent":["body {\n  color: #000;\n  background-color: #fff;\n  font-family: sans-serif;\n}\n/*# sourceMappingURL=home.a4a852dd.css.map */\n","body {\r\n    background-color: white;\r\n    color: black;\r\n    font-family: sans-serif;\r\n}"],"names":[],"version":3,"file":"home.a4a852dd.css.map"}
