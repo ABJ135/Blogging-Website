@@ -1,8 +1,7 @@
 {
   "name": "blogging-website",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A static blogging website with CI/CD using GitHub Actions",
   "scripts": {
     "build": "parcel build src/index.html --dist-dir dist",
     "lint:html": "htmlhint \"src/**/*.html\"",
@@ -14,8 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "htmlhint": "^1.6.3",
+    "parcel": "^2.12.0",
     "stylelint": "^16.21.0",
-    "stylelint-config-standard": "^38.0.0",
-    "parcel": "^2.12.0"
+    "stylelint-config-standard": "^38.0.0"
   }
 }
